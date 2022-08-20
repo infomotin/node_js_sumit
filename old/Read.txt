@@ -1,0 +1,7 @@
+------WebKitFormBoundary330DUzqAdow0Us4w
+Content-Disposition: form-data; name="file"; filename="CCTV.txt"
+Content-Type: text/plain
+
+http://192.168.0.19/doc/page/login.asp?_1556164962162
+http://192.168.0.14:3458/doc/page/login.asp?_1556164976167
+------WebKitFormBoundary330DUzqAdow0Us4w--

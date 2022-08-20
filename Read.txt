@@ -1,0 +1,18 @@
+------WebKitFormBoundary3JXEj6zS0io3t9Wt
+Content-Disposition: form-data; name="file"; filename="bysalam .txt"
+Content-Type: text/plain
+
+Database: bysaadye_bysalam_productions
+db_user:bysaadye_bysaadye
+db_pass: xhWC~wE3C6t2
+
+
+You saved “bysaadye_bysaadye”’s privileges on the database “bysaadye_bysalam_productions”.
+
+
+1Ke$^Ef%ona%I
+
+
+no-reply
+Qe;20Uvh6*dm
+------WebKitFormBoundary3JXEj6zS0io3t9Wt--
